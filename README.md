@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning to build websites
 - 💞️ I’m looking to collaborate on tocomples
 - 📫 How to reach me paula.campos.tapia@gmail.com
-- Holaaaa
-- Chaoooo
+
 
 <!---
 tocomple/tocomple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
